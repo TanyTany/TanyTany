@@ -1,8 +1,7 @@
 ### Hi there, I'm Tatyana Krasnova <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-### I'm a QA Automation Engineer, graduated from the courses of software tester in [Netology](https://netology.ru/programs/qa) and ready to apply the knowledge in practice.
+### I'm a QA Engineer.
 
-- 🔭 I’m looking for a job
 - 🌱 I’m currently learning Java
 - 📫 How to reach me: [@TanyKrasnova](https://www.facebook.com/profile.php?id=100002068815341)
 - ⚡ Fun fact: i love the ocean :ocean:  and surfing :surfer:
