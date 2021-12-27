@@ -3,7 +3,7 @@
 ### I'm a QA Engineer.
 
 - 🌱 I’m currently learning Java
-- 📫 How to reach me: [@TanyKrasnova](https://www.linkedin.com/in/tatyana-krasnova-5203a71bb/)
+- 📫 How to reach me: [@TanyKrasnova](https://www.t-do.ru/Tanyseen)
 
 
 ### Connect with me:
