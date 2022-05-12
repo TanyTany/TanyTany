@@ -10,7 +10,6 @@
 
 [<img align="left" alt="LinkedIn" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="facebook" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/facebook.svg" />][facebook]
-[<img align="left" alt="Instagram" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -34,4 +33,4 @@
 
 [facebook]: https://www.facebook.com/profile.php?id=100002068815341
 [linkedin]: https://www.linkedin.com/in/tatyana-krasnova-5203a71bb/
-[instagram]: https://www.instagram.com/tany_seen/
+
